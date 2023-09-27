@@ -1,8 +1,0 @@
-This folder has all the projects worked on from raw data to the dashboard.
-The following algorithm is used to create a dashboard for informed managerial decision-making.
-  1. Related data is collected from different resources in the form of tables
-  2. Data cleaning is done using Excel/ SQL
-  3. Data normalization-de normalization using SQL
-  4. Datawarehousing (joining all the tables to create the data warehouse table)
-  5. Created dashboard using Excel/Tableau
-  6. Insights are given for the informed managerial decision making
